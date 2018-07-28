@@ -1,0 +1,1 @@
+https://magdalenagrad.github.io/random-quote-generator/
